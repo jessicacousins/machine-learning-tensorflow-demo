@@ -1,4 +1,6 @@
-// ? Note: 6 tensors were created. 2 tensors were created when I loaded the model itself. Then 2 tensors were made for the inputs and two tensors were createdd but were returned to me as outputs.
+// ? Note: 6 tensors were created. 2 tensors were created when I loaded the model itself. Then 2 tensors were made for the inputs and two tensors were created but were returned to me as outputs.
+
+// ! Reminder: this code prints to the console.
 
 const MODEL_PATH =
   "https://storage.googleapis.com/jmstore/TensorFlowJS/EdX/SavedModels/sqftToPropertyPrice/model.json";
